@@ -1,5 +1,6 @@
 aaa
 ada
+ad
 adalah
 adl
 adlh
@@ -43,6 +44,7 @@ ato
 atw
 ataukah
 ataupun
+aw
 awal
 awalnya
 bagai
@@ -307,10 +309,16 @@ jd
 jadilah
 jadinya
 jangan
+jgn
+jangn
+jngn
 jangankan
 janganlah
 jauh
 jawab
+jwb
+jwban
+jwbn
 jawaban
 jawabnya
 jelas
@@ -332,14 +340,18 @@ kalaulah
 kalaupun
 kalian
 kami
+kmi
+km
 kamilah
 kamu
+kmu
 kamulah
 kan
 kapan
 kapankah
 kapanpun
 karena
+krn
 karna
 karnaa
 karenanya
@@ -373,6 +385,7 @@ khususnya
 kini
 kinilah
 kira
+kr
 kira-kira
 kiranya
 kita
@@ -385,6 +398,7 @@ lgi
 lg
 lagian
 lah
+lahh
 lain
 lainnya
 lalu
@@ -397,6 +411,7 @@ lewat
 lima
 luar
 loh
+lohh
 macam
 maka
 makanya
@@ -410,7 +425,6 @@ manakala
 manalagi
 mas
 masa
-masalah
 masalahnya
 masih
 masihkah
@@ -448,7 +462,7 @@ menaiki
 menambahkan
 menandaskan
 menanti
-menanti-nanti
+menantinanti
 menantikan
 menanya
 menanyai
@@ -538,8 +552,10 @@ pak
 paling
 palingan
 panjang
+pnjng
 para
 pasti
+psti
 pastilah
 penting
 pentingnya
@@ -593,6 +609,7 @@ sebagainya
 sebagian
 sebaik
 sebaik-baiknya
+sebaikbaiknya
 sebaiknya
 sebaliknya
 sebanyak
@@ -610,6 +627,7 @@ sebut
 sebutlah
 sebutnya
 secara
+scr
 secukupnya
 sedang
 sedangkan
