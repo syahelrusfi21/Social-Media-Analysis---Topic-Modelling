@@ -147,6 +147,7 @@ dah
 dahulu
 dalam
 dlm
+dlam
 dalm
 dan
 dak
@@ -912,6 +913,8 @@ pagi
 siang
 sore
 malem
+malam
+petang
 ibuibu
 bapakbapak
 bapa
@@ -942,3 +945,9 @@ nggk
 nga
 ngk
 nie
+prabowopresiden
+mrka
+96
+96jutarakyatbersuara
+jutarakyatbersuara
+presiden
